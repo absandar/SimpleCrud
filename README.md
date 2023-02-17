@@ -18,27 +18,26 @@ aprendiendo laravel
 
 ##  Home
 
-
-<p  align="center"><img  src="![home](https://user-images.githubusercontent.com/123978109/219535340-2f2c96b2-8378-4970-88a3-14934ee3af63.png)"  width="400"></p>
+![home](https://user-images.githubusercontent.com/123978109/219535340-2f2c96b2-8378-4970-88a3-14934ee3af63.png)
 
 ##  Crear
 
 
-<p  align="center"><img  src="![crear](https://user-images.githubusercontent.com/123978109/219535517-60b3217c-8e51-47d8-bed3-b450f40c1b5b.png)"  width="400"></p>
+![crear](https://user-images.githubusercontent.com/123978109/219535517-60b3217c-8e51-47d8-bed3-b450f40c1b5b.png)
 
 ##  Leer
 
 
-<p  align="center"><img  src="![leer](https://user-images.githubusercontent.com/123978109/219535579-02d156d2-b532-4f65-a895-bec7da268e31.png)"  width="400"></p>
+![leer](https://user-images.githubusercontent.com/123978109/219535579-02d156d2-b532-4f65-a895-bec7da268e31.png)
 
 
 ##  Modificar
 
 
-<p  align="center"><img  src="![editar](https://user-images.githubusercontent.com/123978109/219535646-bd49e937-ff5c-48c6-a480-08a37bd355fe.png)"  width="400"></p>
+![editar](https://user-images.githubusercontent.com/123978109/219535646-bd49e937-ff5c-48c6-a480-08a37bd355fe.png)
 
 ##  Eliminar
 
 
-<p  align="center"><img  src="![eliminar](https://user-images.githubusercontent.com/123978109/219535698-cb3fc8a8-96ac-4495-a29a-5b3d86ec23d1.png)"  width="400"></p>
+![eliminar](https://user-images.githubusercontent.com/123978109/219535698-cb3fc8a8-96ac-4495-a29a-5b3d86ec23d1.png)
 
