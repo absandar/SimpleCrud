@@ -18,7 +18,8 @@ aprendiendo laravel
 
 ##  Home
 
-![home](https://user-images.githubusercontent.com/123978109/219535340-2f2c96b2-8378-4970-88a3-14934ee3af63.png)
+![home](https://user-images.githubusercontent.com/123978109/219541317-a29f74f3-894e-469e-809d-e339eefcb631.jpeg)
+
 
 ##  Crear
 
